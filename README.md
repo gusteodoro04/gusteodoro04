@@ -1,6 +1,6 @@
 ## Olá, me chamo Gustavo 
-🏫 - Eu estudo no Instituto Federal campus Machado, 
-lá faço tecnico em informatica com o ensino médio.
+🏫 - Eu estudo no Instituto Federal Campus Machado, 
+faço técnico em informatica integrado ao ensino médio.
 
 💻 - Gosto de aprender coisas novas então não me apego só ao conteudo de lá
 
@@ -8,8 +8,8 @@ lá faço tecnico em informatica com o ensino médio.
 
 <div align="center">
   <a href="https://github.com/gusteodoro04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusteodoro04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusteodoro04&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusteodoro04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusteodoro04&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
