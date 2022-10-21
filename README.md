@@ -30,7 +30,7 @@
 - ✨ Jogos de corrida
 - ✨ Animes e Séries
 - ✨ Livros de ficção e romance
-- ✨ Múicas internacionais
+- ✨ Músicas internacionais
 
 </br>
 </br>
@@ -38,12 +38,12 @@
 
 
 
-# Linguagens e ferramentas 🛠:
+<!--# Linguagens e ferramentas 🛠:
 </br>
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+icons https://github.com/MikeCodesDotNET/ColoredBadges 
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
@@ -59,7 +59,7 @@
 </p>
 </br>
 </br>
-</br>
+</br>-->
 
 
 
@@ -116,14 +116,14 @@ Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvi
   <a href="https://github.com/gusteodoro04">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusteodoro04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusteodoro04&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+<!-- </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-</div>
+</div> -->
 
 ##
 
