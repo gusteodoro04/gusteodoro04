@@ -63,7 +63,7 @@
 
 
 
-# Contact Me :
+# Entre em contato :
 
 <p>
  </br>
@@ -72,9 +72,9 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvida ou apenas para sair e conversar ou quiser jogar juntos, me contate abaixo 🕹.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:gusteodoro04@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
@@ -83,12 +83,19 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
+<a href="https://www.reddit.com/user/gusteodoro04">
   <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198182224539/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
+ <a href="https://www.youtube.com/channel/UCzF53mybY_mTzmWpFtudnBQ" target="_blank">
+   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gusteodoro04" target="_blank">
+ <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/gusteodoro04" target="_blank">
+ <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/zV6aMDy7TJ" target="_blank">
  </p>
  
 
@@ -121,11 +128,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCzF53mybY_mTzmWpFtudnBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gusteodoro04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/gusteodoro04" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/zV6aMDy7TJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gusteodoro04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/gusteodoro04/gusteodoro04/blob/output/github-contribution-grid-snake.svg)
  
