@@ -5,7 +5,7 @@
 ### 📖 Sobre mim
 
  Tenho 19 anos e estudo Sistemas de Informações no Instituto Federal - Campus Machado.  
- Sou técnico em Informática.   
+ Técnico em Informática.   
  Apaixonado por aprender, programar e criar coisas novas.
 
 ---
