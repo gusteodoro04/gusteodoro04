@@ -13,8 +13,8 @@
 
 ```javascript
 const gusta = {
-  code: ["JavaScript", "HTML", "CSS", "C#", "SQL"],
-  tools: ["Visual Studio Code", "Git", "NodeJS", "NetBeans"],
+  code: [JavaScript, HTML, CSS, C#, C++, SQL],
+  tools: [VSCode, Git, NodeJS, NetBeans],
   location: "MG - Brasil",
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
