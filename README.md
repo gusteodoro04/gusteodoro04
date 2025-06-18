@@ -1,4 +1,4 @@
-<h2> Hi, I'm Gustavo Teodoro! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFzb2Y4OHM4emQxcnI1OXR0dDMwbzN1Z2V0d3VtaWhlazkxd3gzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Gustavo Teodoro! </h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV0ODVqc25yMm4zYTBwcDFqemFhZDZwMjc3bmhucHc5OXBvNDUxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MEXemG2kzzvKqDcaAK/giphy.gif" width="230">
 <p><em>Information Systems student at <a href="https://www.ifsuldeminas.edu.br/">IFSULDEMINAS - Campus Machado</a>  
 <br>Technical degree in Informatics and passionate about technology</em></p>
@@ -9,7 +9,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
+### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFzb2Y4OHM4emQxcnI1OXR0dDMwbzN1Z2V0d3VtaWhlazkxd3gzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGI8GoTL7N4DsyI/giphy.gif)" width="50"> Um pouco mais sobre mim...
 
 ```javascript
 const gusta = {
