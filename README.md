@@ -9,7 +9,7 @@
 
 ---
 
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFzb2Y4OHM4emQxcnI1OXR0dDMwbzN1Z2V0d3VtaWhlazkxd3gzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGI8GoTL7N4DsyI/giphy.gif)" width="50"> Um pouco mais sobre mim...
+### Um pouco mais sobre mim...
 
 ```javascript
 const gusta = {
