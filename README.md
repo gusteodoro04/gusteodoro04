@@ -9,7 +9,7 @@
 
 ---
 
-### Um pouco mais sobre mim...
+### A little more about me...
 
 ```javascript
 const gusta = {
