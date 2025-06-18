@@ -4,7 +4,7 @@
 
 ### 📖 Sobre mim
 
- Tenho 19 anos e estudo no Instituto Federal - Campus Machado.  
+ Tenho 19 anos e estudo Sistemas de Informações no Instituto Federal - Campus Machado.  
  Sou técnico em Informática.   
  Apaixonado por aprender, programar e criar coisas novas.
 
@@ -19,27 +19,16 @@
 
 ---
 
-### 📺 Hobbies & Interesses
-
--  Jogos de corrida e aventuras
--  Livros de ficção científica e romance
--  Animes e séries
--  Um bom café, flores, jazz e vinho são minhas vibes
-
----
-
 ### 📫 Contato
 
 Se quiser trocar uma ideia, tirar dúvidas ou jogar uma partida comigo, é só chamar:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusteodoro04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-saxena-7b326817b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-teodoro-b7339335a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gusteodoro04)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gusteodoro04)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzF53mybY_mTzmWpFtudnBQ)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198182224539/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/gusteodoro/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/gusteodoro04)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zV6aMDy7TJ)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9etwu2w7gS)
 
 ---
 
