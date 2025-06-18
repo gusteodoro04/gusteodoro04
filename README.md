@@ -1,57 +1,28 @@
-## Olá, me chamo Gustavo Teodoro
+<h2> Hi, I'm Gustavo Teodoro! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFzb2Y4OHM4emQxcnI1OXR0dDMwbzN1Z2V0d3VtaWhlazkxd3gzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV0ODVqc25yMm4zYTBwcDFqemFhZDZwMjc3bmhucHc5OXBvNDUxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MEXemG2kzzvKqDcaAK/giphy.gif" width="230">
+<p><em>Information Systems student at <a href="https://www.ifsuldeminas.edu.br/">IFSULDEMINAS - Campus Machado</a>  
+<br>Technical degree in Informatics and passionate about technology</em></p>
+
+[![Twitter: gusteodoro04](https://img.shields.io/twitter/follow/gusteodoro04?style=social)](https://twitter.com/gusteodoro04)
+[![LinkedIn: gusteodoro04](https://img.shields.io/badge/-Gustavo%20Teodoro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-teodoro-b7339335a/)](https://www.linkedin.com/in/gustavo-teodoro-b7339335a/)
+[![GitHub: gusteodoro04](https://img.shields.io/github/followers/gusteodoro04?label=follow&style=social)](https://github.com/gusteodoro04)
 
 ---
 
-### 📖 Sobre mim
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
 
- Tenho 19 anos e estudo Sistemas de Informações no Instituto Federal - Campus Machado.  
- Técnico em Informática.   
- Apaixonado por aprender, programar e criar coisas novas.
-
----
-
-### 🚀 Estudando atualmente
-
-- JavaScript
-- SQL
-- HTML & CSS
-- Sempre buscando aprimorar meus conhecimentos em desenvolvimento web e lógica de programação.
-
----
-
-### 📫 Contato
-
-Se quiser trocar uma ideia, tirar dúvidas ou jogar uma partida comigo, é só chamar:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gusteodoro04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-teodoro-b7339335a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gusteodoro04)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/gusteodoro/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/gusteodoro04)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9etwu2w7gS)
-
----
-
-### ⚙️ Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusteodoro04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusteodoro04&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/gusteodoro04/gusteodoro04/blob/output/github-contribution-grid-snake.svg" />
-</div>
+```javascript
+const gusta = {
+  code: ["JavaScript", "HTML", "CSS", "C#", "SQL"],
+  tools: ["Visual Studio Code", "Git", "NodeJS", "NetBeans"],
+  location: "MG - Brasil",
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "",
+                        speaker: "",
+                        mentor: ""
+                      },
+ challenge: ""
+}
+```
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV0ODVqc25yMm4zYTBwcDFqemFhZDZwMjc3bmhucHc5OXBvNDUxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="60"> <em><b>If you want to chat about tech, projects, or anything cool, feel free to reach out</b></em>
