@@ -28,7 +28,7 @@ const gusta = {
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnV0ODVqc25yMm4zYTBwcDFqemFhZDZwMjc3bmhucHc5OXBvNDUxdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="60"> <em><b>If you want to chat about tech, projects, or anything cool, feel free to reach out</b></em>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusteodoro04/gusteodoro04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gusteodoro04/gusteodoro04/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gusteodoro04/gusteodoro04/output/github-contribution-grid-snake.svg">
 </picture>
